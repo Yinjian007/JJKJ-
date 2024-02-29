@@ -7,5 +7,5 @@ JJKJ小店的发卡由Zfaka修改而来
 4.网址输入https://域名/admin
 5.登录邮箱：admin@163.com 密码：admin123
 
-
+远程下载地址：https://raw.githubusercontent.com/Yinjian007/JJKJ-/main/FAKA.zip
 如要修改对应信息，请参照源码修改即可！
